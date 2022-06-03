@@ -18,3 +18,7 @@ Inspired by [this](https://github.com/phord/Jarvis/discussions/18) thread, I cre
 I used a more capable ESP32 module specifically so I could drive some RGBWW LED strips as well.
 
 See the [cad](cad/readme.md) folder for the KiCad files.
+
+The (mostly populated) PCB looks like this:
+
+![pcb-installed](./cad/pcb_installed.jpg)
