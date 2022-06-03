@@ -1,0 +1,12 @@
+# Ignore the freerouting files
+*.bin
+logs/freerouter.log
+
+# And backups
+smart-desk-backups/*.zip
+
+# KiCad cache files
+fp-info-cache
+
+# Dolphin
+.directory
